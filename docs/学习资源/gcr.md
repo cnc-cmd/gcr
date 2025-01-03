@@ -9,9 +9,35 @@
 
 ## 计算机基础
 
-### [CS50](https://www.bilibili.com/video/BV1Rb411378V/?spm_id_from=333.337.search-card.all.click&vd_source=aa8117ebb5248a16558a89e966a57f27 "计算机基础")
+[CS50 —— 计算机基础](https://www.bilibili.com/video/BV1Rb411378V/ )
 
+??? 视频预览
+
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1Rb411378V&page=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
+[CS61A —— 程序设计思想入门](https://www.bilibili.com/video/BV1sy411z7nA)
+
+??? 视频预览
+
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1sy411z7nA&page=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
+
+[CS61B —— 基础数据结构（Java语言）](https://www.bilibili.com/video/BV1hJ4m1M7ZA)
+
+??? 视频预览
+
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1hJ4m1M7ZA&page=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+
+[USTC 计算机网络自顶向下方法](https://www.bilibili.com/video/BV1JV411t7ow/)
+
+??? 视频预览
+
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1JV411t7ow&page=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
 ## C语言基础
 
-### [浙大翁恺](https://www.bilibili.com/video/BV1XZ4y1S7e1/?spm_id_from=333.337.search-card.all.click "C语言基础学习")
+### [浙大翁恺](https://www.bilibili.com/video/BV1XZ4y1S7e1/ "C语言基础学习")
+
+??? 视频预览
+
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1XZ4y1S7e1&page=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
