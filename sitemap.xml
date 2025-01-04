@@ -2,46 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://cnc-cmd.github.io/GCR/</loc>
-         <lastmod>2024-12-28</lastmod>
+         <lastmod>2025-01-04</lastmod>
     </url>
     <url>
          <loc>https://cnc-cmd.github.io/GCR/LearningPath/</loc>
-         <lastmod>2024-12-28</lastmod>
+         <lastmod>2025-01-04</lastmod>
     </url>
     <url>
          <loc>https://cnc-cmd.github.io/GCR/about/</loc>
-         <lastmod>2024-12-28</lastmod>
+         <lastmod>2025-01-04</lastmod>
     </url>
     <url>
          <loc>https://cnc-cmd.github.io/GCR/friend/</loc>
-         <lastmod>2024-12-28</lastmod>
+         <lastmod>2025-01-04</lastmod>
     </url>
     <url>
          <loc>https://cnc-cmd.github.io/GCR/project/</loc>
-         <lastmod>2024-12-28</lastmod>
+         <lastmod>2025-01-04</lastmod>
     </url>
     <url>
          <loc>https://cnc-cmd.github.io/GCR/roadmap/</loc>
-         <lastmod>2024-12-28</lastmod>
+         <lastmod>2025-01-04</lastmod>
     </url>
     <url>
          <loc>https://cnc-cmd.github.io/GCR/study/</loc>
-         <lastmod>2024-12-28</lastmod>
+         <lastmod>2025-01-04</lastmod>
     </url>
     <url>
          <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/backend/</loc>
-         <lastmod>2024-12-28</lastmod>
+         <lastmod>2025-01-04</lastmod>
     </url>
     <url>
          <loc>https://cnc-cmd.github.io/GCR/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/gcr/</loc>
-         <lastmod>2024-12-28</lastmod>
+         <lastmod>2025-01-04</lastmod>
     </url>
     <url>
          <loc>https://cnc-cmd.github.io/GCR/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/git/</loc>
-         <lastmod>2024-12-28</lastmod>
+         <lastmod>2025-01-04</lastmod>
     </url>
     <url>
          <loc>https://cnc-cmd.github.io/GCR/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/vscode/</loc>
-         <lastmod>2024-12-28</lastmod>
+         <lastmod>2025-01-04</lastmod>
+    </url>
+    <url>
+         <loc>https://cnc-cmd.github.io/GCR/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/ArticleCollection/</loc>
+         <lastmod>2025-01-04</lastmod>
     </url>
 </urlset>
